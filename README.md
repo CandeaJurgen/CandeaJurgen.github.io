@@ -1,2 +1,2 @@
-# Jurgencandea.github.io
+# CandeaJurgen
 Personal website
